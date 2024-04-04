@@ -4,6 +4,7 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	opcData1: INT;
+	bInit : BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
